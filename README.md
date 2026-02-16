@@ -8,4 +8,6 @@ Para lograr esto, en mi aplicación utilicé los siguientes controles:
 2 TextBox (Cuadros de texto): Son los espacios interactivos donde el usuario escribe el monto de la factura y el porcentaje de propina que desea aplicar.
 
 1 Button (Botón): Es el control encargado de procesar la operación matemática al hacer clic, activando el cálculo del porcentaje y mostrando el total final.
-<img width="578" height="511" alt="image" src="https://github.com/user-attachments/assets/a1f2293b-47e6-45d8-babe-fa9d59d0fd5d" />
+
+<img width="508" height="562" alt="image" src="https://github.com/user-attachments/assets/855298b7-caed-4603-a9d0-0d295868378d" />
+
